@@ -53,9 +53,9 @@
       <h3 align="center">🔮 SkillMatriX</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-FF69B4?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <p>An <b>AI-powered Skill Gap Analysis & Matrix Platform</b> built with a modern frontend dashboard to visualize competencies & growth paths.</p>
+      <p>An <b>AI-powered Skill Gap Analysis & Matrix Platform</b> built with Next.js 15, Spring Boot, and a <b>MySQL</b> database to visualize competencies & growth paths.</p>
       <p align="center">
         <a href="https://github.com/cyber01012/SkillMatriX"><b>[ View Repo 🔗 ]</b></a>
       </p>
@@ -89,8 +89,8 @@
 <summary><b>✨ More Creative Projects in My Garage</b></summary>
 <br>
 
-* ⚡ **[NeXora](https://github.com/cyber01012/NeXora)** — Next-Gen dynamic interactive web application built with React 19, Framer Motion, GSAP, and fluid UI micro-interactions.
-* 🔄 **[SkillSync](https://github.com/cyber01012/SkillSync)** — Peer-to-peer AI skill matching & mentorship platform.
+* 🚨 **[NeXora](https://github.com/cyber01012/NeXora)** — Next-Gen Disaster & Civic Management System backed by **PostgreSQL**, Spring Boot, React 19, Framer Motion, and GSAP.
+* 🧬 **[SkillSync](https://github.com/cyber01012/SkillSync)** — Dual-Database (SQL Server & MongoDB) Freelance Platform featuring algorithmic **Freelancer Skill DNA** synthesis & **SkillScore** calculations.
 * 🤖 **[QueryFlow-AI](https://github.com/cyber01012/QueryFlow-AI)** — Natural language to database query converter & AI data visualizer.
 * 🎮 **[retrobot](https://github.com/cyber01012/retrobot)** — Retro-styled automation & bot utility tools.
 
@@ -111,12 +111,15 @@
 </p>
 
 <p align="center">
-  <b>Motion, Design & Backend Tools</b><br>
+  <b>Databases, Backend & Tools</b><br>
+  <img src="https://img.shields.io/badge/MySQL-FF1493?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-FFB6C1?style=flat-square&logo=microsoftsqlserver&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-FF1493?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-FF69B4?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-FFB6C1?style=flat-square&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-FF1493?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-FF69B4?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=flat-square&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-FF1493?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
