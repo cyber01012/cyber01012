@@ -1,156 +1,148 @@
 <div align="center">
 
-# 🌸 Welcome to my terminal...
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=SUHAIMA%20KHAN&fontSize=55&fontColor=ff8bd4&animation=fadeIn&fontAlignY=45&color=0d0221"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SUHAIMA%20KHAN&fontSize=55&fontColor=ff8cc6&animation=fadeIn&fontAlignY=38&color=0:17002e,50:3b0a57,100:ff5ca8&desc=Frontend%20Developer%20%7C%20UI/UX%20Explorer&descAlignY=60&descSize=18"/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=34&pause=1200&color=FF7EB6&center=true&vCenter=true&width=700&lines=%3E+booting+portfolio...;%3E+loading+frontend+developer...;%3E+loading+UI%2FUX+explorer...;%3E+welcome+visitor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=2500&pause=800&color=FF71CE&center=true&vCenter=true&width=700&lines=BOOTING+SYSTEM...;LOADING+FRONTEND+DEV...;UI%2FUX+MODULE+ONLINE;WELCOME+TO+MY+CRT+TERMINAL)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```console
-┌──────────────────────────────────────────────────────┐
-│ USER PROFILE                                         │
-├──────────────────────────────────────────────────────┤
-│ Name        :: Suhaima Khan                          │
-│ Role        :: Software Engineering Student          │
-│ Focus       :: Frontend Development                  │
-│ Exploring   :: UI/UX • Design Systems                │
-│ Status      :: Turning ideas into experiences ✨     │
-└──────────────────────────────────────────────────────┘
+<div align="center">
+
+```text
+╭────────────────────────────────────────╮
+│                                        │
+│        ██████  CRT TERMINAL ██████     │
+│                                        │
+│  > user: cyber01012                    │
+│  > role: frontend developer            │
+│  > status: creating interfaces         │
+│                                        │
+│  [████████████████████] 100%           │
+│                                        │
+╰────────────────────────────────────────╯
 ```
 
-## 🌸 About Me
+</div>
+
+---
+
+# 🌸 ABOUT_ME.exe
 
 ```yaml
 name: Suhaima Khan
 
-currently_learning:
-  - UI/UX Design
-  - Next.js
-  - Advanced React
-  - Accessibility
+identity:
+  - Software Engineering Student
+  - Frontend Developer
+  - UI/UX Explorer
 
-interests:
-  - Frontend Development
+focus:
+  - React Development
+  - Modern Web Experiences
+  - Interface Design
   - User Experience
-  - Creative Interfaces
-  - Design Systems
 
-philosophy:
-  "Good design is invisible. Great UX feels effortless."
+goal:
+  "Building beautiful interfaces with clean code."
 ```
 
 ---
 
-# 💖 Tech Stack
+# 💗 TECH_STACK.dll
 
-### Languages
 
-<p>
+## ⚡ Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,java,python,dart" />
 </p>
 
-### Frontend
 
-<p>
+## 🌐 Frontend Systems
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css" />
 </p>
 
-### Backend Experience
 
-<p>
+## ⚙️ Backend Experience
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
 </p>
 
-### Databases
 
-<p>
+## 🗄 Database Systems
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+## 🛠 Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🕹 CURRENTLY_LOADING...
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyber01012&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber01012&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=cyber01012&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🌆 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber01012&theme=tokyo-night&hide_border=true&line=ff69b4&point=ff69b4"/>
-
-</div>
-
----
-
-# 🌸 Currently Exploring
 
 ```text
-React          ████████████████████████ 100%
+FRONTEND DEVELOPMENT
 
-Next.js        ███████████████████░░░░░ 80%
+███████████████████████░░░  React
 
-UI / UX        ████████████████████░░░░ 85%
+████████████████████░░░░░░  Next.js
 
-Design Systems █████████████████░░░░░░░ 75%
+██████████████████░░░░░░░░  UI/UX
 
-Accessibility  ████████████░░░░░░░░░░░░ 55%
+███████████████░░░░░░░░░░░  Design Systems
+
+███████████░░░░░░░░░░░░░░░  Accessibility
 ```
 
 ---
 
-# ✨ Featured Projects
+# 🌷 FEATURED_PROJECTS
 
-🌸 Beautiful Frontend Interfaces
+```text
+01 // React Interfaces
+02 // Next.js Applications
+03 // UI/UX Experiments
+04 // Flutter Mobile App
+05 // Full Stack Projects
+```
 
-⚛️ React & Next.js Applications
+---
 
-🎨 UI/UX Focused Projects
+# 📡 CONNECT
 
-📱 Flutter Mobile App
-
-🌐 Full Stack Web Applications
+```text
+> LinkedIn  :: add link
+> Portfolio :: add link
+> Email     :: add email
+```
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=cyber01012&style=for-the-badge&color=ff69b4)
+```
+╔════════════════════════════╗
+║  THANK YOU FOR VISITING    ║
+║                            ║
+║  INSERT COIN TO CONTINUE   ║
+╚════════════════════════════╝
+```
+
+✨ *Building interfaces people enjoy using.*
 
 </div>
 
----
-
-<div align="center">
-
-### 💗 *"Building interfaces people enjoy using."*
-
-</div>
