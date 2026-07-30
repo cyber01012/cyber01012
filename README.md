@@ -41,8 +41,6 @@
 - 🎨 **Speciality**: Creative Web Designing, Frontend Engineering & UI/UX Design.
 - 🔭 **Current Focus**: Learning modern User Interface patterns, deep diving into Frontend Dev & AI integrations.
 - 💬 **Ask Me About**: React, Next.js, CSS/Tailwind, Web Animations, UI Design & Aesthetic Web Apps.
-- 📫 **Connect with me**: Reach out on [GitHub](https://github.com/cyber01012)!
-
 ---
 
 ### 🌟 Featured Projects
