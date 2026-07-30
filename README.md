@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/HTML5%2FJS-FF69B4?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Productivity-FFB6C1?style=flat-square" />
       </p>
-      <p>An extremely simple and cozy first semester project<b>Productivity & Ambient Focus Web Application</b> featuring soothing UI design crafted for deep work and peaceful study sessions.</p>
+      <p>An extremely simple and cozy first semester project<b>Productivity & Ambient Focus Web Application </b> featuring soothing UI design crafted for deep work and peaceful study sessions.</p>
       <p align="center">
         <a href="https://github.com/cyber01012/Kiki-s-Quiet-Corner---Productivity-Web-App"><b>[ View Repo 🔗 ]</b></a>
       </p>
